@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silatorganizer",
+  "private_key_id": "36cc4cb944d49db86363d6453b416b8d579b1e25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtXbYqzQiU/rA0\nbEh/an+se6Y5MWtNS/LetsPNm2vBvpbcr5LzUd8eoChppe1RIU1vipsY2lKoyjw7\nWhac4X+m3Or//VvshoIZ2zBVBHjf+RFNVR7TAzKqZupyGLhGz4aSq5akmth2lKGT\nWUprVgvFpXrfGgxXY15c9l5wJlhwu3iN33AODq4j2FIgdhBkz8OA8W5/VledUyQ4\n/b1m3zT085E35FKI2htdFG3XlP+QsnLv32/oc0+rnBEUYRroz/l88Rb//x1layak\npf0PB6IL8JnjWbgMb/+GwvMFUBaJPxXZWj1fl7gZTHTNmXhfPrzzTQjkmYCIk5e5\nS1jshSgzAgMBAAECggEAPbvWB421VaEPy8sXUc/xoNDzEwCnDgJSfL4mIUwL5hTh\nEbqvoFdyFSzA10YPqMksEuEPc50ivBovso7U6I5f72JRiFCG8EXBhEWKA2wxQsgl\nQh1ieY909jrplzF4RTbW29mgLgM5u5gXpSmxl2EvlfTkORfEd0XaL05HuLXe3l09\nefQhKN36E7+IzwEEEKRDQPD6aOtPHDzt208mpNi3pHBYLtMCyRreXILXTvUEzV6D\nR+pnLYiZnPUh90bkwVYuByJChBM2jiQJprcsq1KE5rHS1k7z894gBtnpKgIKKvFJ\nm1iFnzSj90gmsbrysZJNXgTHIKcLWX3I84zJZCvj0QKBgQDTUsAEuTHKWonB6c+I\njWpk9+K5dj4iRJ37OAg/cYNeYyDVa6dhZADmpq4n0jwsWBPrSfiV7d61hgNE5/gn\nT37ibgY/RPT6Kz05O7gCNgSP8u/lZTNkngVM73gFIZ2ykLo95PqJ5IBWYJiyBqlR\nKyPMDPbZiH2BmYG3zN8kDvtWmwKBgQDSBKP51saLjI+YuyT/5cjdmzAViYJOmo7w\n0HY41p4fau+LT1LrJzjCBSNIlDwZGtrgyH4iNwxE34wQBEBdARdDxz/GJHu+cdga\nSiaJE1BcXDeXdFsnNBQ8Tg9DzhhiiLBSSvIBIJw+sjIkoM+zOeLlwEJcc5f25e46\nsbRo5SjCSQKBgFp3WmyrO319NOwmxAmZQKro087Bp+fTqC4b1qwSVELb/Ppgk89F\nmH0lbfjuL4RsUFqx2BGXO3hKXqvpAnsRtSgKIfKD+rv+Nr+BqUyJA3r8bWau5El2\nvJ4rBh5sPa5r9s74b6kIgUh5IeVUpLdy2GhKRILrw47vwHCG7B/rqf1xAoGADeXy\nuAjnkLqXkiLoWuro9QldED/OWMdPqE4TVMWXJzsbaRuxwBATaHuQjzAIHh0x2OhL\nuJXuAOzORw0Q+VamJH0eEk29xqegBnVbwXx+t+3+W85+bcS7hhYgWntcD8E98eQ1\nya9Px7JhMR1XQWQWSOAFRDr+Fn+22TmDV+G6ZckCgYEAtaH5mAjAhQbQzPr1mMsn\nsR5OiOWrwxeiJ6TPP3ndirck/qB2wyRJbpHsEmA67EAGQBzPbo/47LnZfRbfkJTD\nCvf9XgPOWjEWH8Fel4njNJmyM8O8j0lYVGWA4d5C6pWhrciH6mP9KVzQpdjFO7uz\ng5icPYw1bmjzhO552vt8T90=\n-----END PRIVATE KEY-----\n",
+  "client_email": "silatorganizer@appspot.gserviceaccount.com",
+  "client_id": "111005277815960973978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/silatorganizer%40appspot.gserviceaccount.com"
+}
