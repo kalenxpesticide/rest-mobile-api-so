@@ -48,7 +48,7 @@ app.post("/"+ klasemenCollection +"/:id", authentication.validateFirebaseIdToken
 
 // Get Klasemen By Jenjang Sekolah
 app.get("/" + klasemenCollection +"/:groupIndex/:level", (req, res) => {
-    firebaseHelper.firestoreHelper.queryData(db, klasemenCollection, [["groupIndex", "==", req.params.groupIndex], ["level", "==", req.params.level]], ["gold"])
+    firebaseHelper.firestoreHelper.queryData(db, klasemenCollection, [["groupIndex", "==", req.params.groupIndex], ["level", "==", req.params.level]])
         .then(doc => res.status(200).send(doc))
         .catch(error => res.status(400).send(`Cannot get klasemen: ${error}`));
 })
