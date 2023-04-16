@@ -1,0 +1,20 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {    
+    match /tournaments {
+    	allow create: if request.auth != null;
+      allow list: if request.auth == null;
+      match /{tournamentId} {
+      	allow update, delete: if request.auth != null;
+        allow get: if request.auth == null;
+      }
+  	}
+    match /partai {
+    	allow create: if request.auth != null;      
+      match /{tournamentId} {
+      	allow update : if request.auth != null;
+        allow get: if request.auth == null;
+      }
+  	}
+  }
+}

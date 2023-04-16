@@ -1,0 +1,23 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "klasemen",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "gold",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "silver",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "bronze",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
