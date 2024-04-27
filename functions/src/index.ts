@@ -6,6 +6,7 @@ import * as tournament from "./controller/tournament";
 import * as klasemen from "./controller/klasemen";
 import * as member from "./controller/member";
 import * as config from "./controller/config";
+import * as merchant from "./controller/merchant";
 
 const main = express();
 const prefix = "/api/v1";
@@ -15,6 +16,7 @@ main.use(prefix, tournament.app);
 main.use(prefix, klasemen.app);
 main.use(prefix, member.app);
 main.use(prefix, config.app);
+main.use(prefix, merchant.app);
 main.use(bodyParser.json());
 main.use(bodyParser.urlencoded({extended: false}));
 
